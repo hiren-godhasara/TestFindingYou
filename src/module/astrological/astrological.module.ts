@@ -8,4 +8,4 @@ import { AstrologicalService } from './astrological.service';
   providers: [AstrologicalService],
   exports: [AstrologicalService],
 })
-export class AstrologicalChartModule {}
+export class AstrologicalModule {}
