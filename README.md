@@ -21,7 +21,7 @@ Before running the application, ensure you have the following installed on your 
 2.  Install dependencies:
 
 ```bash
-cd findingYou
+cd TestFindingYou
 npm install
 ```
 
