@@ -1,8 +1,5 @@
 
-# Cinema Ticket Purchasing Platform
-
-The Cinema Ticket Purchasing Platform is a web API built with Node.js and TypeScript, using the NestJS framework and MongoDB as the data store. It provides a set of operations for managing cinemas and purchasing seats within them.
-
+# Finding You
 
 
 
@@ -10,10 +7,7 @@ The Cinema Ticket Purchasing Platform is a web API built with Node.js and TypeSc
 
 Before running the application, ensure you have the following installed on your machine:
 
-
-
 - Node.js
-- MongoDB
 
 ## Installation
 
@@ -27,15 +21,11 @@ Before running the application, ensure you have the following installed on your 
 2.  Install dependencies:
 
 ```bash
-cd cinema
+cd findingYou
 npm install
 ```
 
-3. Configure the MongoDB connection:
-
-* Open the .env file.
-Update the DATABASE_URL variable with your MongoDB connection string.
-Start the application:
+3. Start the application:
 
 ```bash
 npm run start:dev
@@ -47,4 +37,3 @@ npm run start:dev
 * Node.js
 * TypeScript
 * Nest.js
-* MongoDB
